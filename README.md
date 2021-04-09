@@ -20,17 +20,17 @@ Another update to my portfolio
 ## Installation
 none
 ## Technology
-Pretty much everything. MySql, Express, handlebars, javascript, html, css
+html and css
 
 ## Success
-This was a huge project. Ive spent longer on this one than any other in the past. But I feel proud with my initial groundwork,. The projects backend was fairly simple to complete, using past activities and online references. With every little win, with the complexity of the project, i felt a sense of achievement. Im happy my code came through not overly complicated and fairly easy to read. 
+The last update i did to my profile was a complete overhaul and I am happy with the results for now. I updated to included some newer projects and assignments but fo now, the layout im happy with and everything is up to date
 
 ## Holdbacks
-Time was my main factor in why it took so long and why it was so difficult. Working full time and learning new systems at work on top of new technologies really hindered my experience. Also it was a lot of information to remember and work with starting from scratch. So many files effecting others, id find id make one step forward and 2 steps back quite frequently. I feel a little more confident with this set up but still have a long way to go.
+none. future development though, id like to look at adding animations, maybe a more stylised look and making it look more professional. These things will take time to learn and i want to focus on the course subjects before looking outside their scope. 
 
 
 ## Contribution
-No starting code given so was completely built from scratch. I contributed soley on this project with assistance from TA and tutor through bootcamp
+Used previous layout and updated links where needed. 
 
 ## Test
 no testing 
@@ -49,4 +49,4 @@ jarred.caris@gmail.com
 [click for heroku domain] (https://note-taker-jarred.herokuapp.com/)
 
 
-[click for URL] (https://jarred-caris.github.io/note_taker/)
+[click for URL] (https://jarred-caris.github.io/updated_portfolio_two/)
